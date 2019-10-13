@@ -1,5 +1,6 @@
 # drMessageClassification
-train a model to categorize text messages in a disaster response scenario.
+Train a model to categorize text messages in a disaster response scenario.
+The trained model is used in a web app to allow users to classify custom messages into various disaster-response-related categories.
 
 # Usage:
 This project is divided into three sequential modules: an ETL pipeline, an ML pipeline and a Flask web app.
